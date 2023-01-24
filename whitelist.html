@@ -14,23 +14,35 @@
 <h1>page2</h1>
 <p>This is a paragraph.</p>
 
- <table id="myTable" class="display" style="width: 100%;">
-   </table>
+<div id="example_wrapper" class="dataTables_wrapper"><div class="dataTables_length" id="example_length"><label>Show <select name="example_length" aria-controls="example" class=""><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select> entries</label></div><div id="example_filter" class="dataTables_filter"><label>Search:<input type="search" class="" placeholder="" aria-controls="example"></label></div><table id="example" class="display dataTable" style="width:100%" aria-describedby="example_info">
+        <thead>
+            <tr><th class="sorting sorting_asc" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 94px;">Name</th><th class="sorting" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 124.375px;">Position</th><th class="sorting" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-label="Office: activate to sort column ascending" style="width: 96.7375px;">Office</th><th class="sorting" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-label="Extn.: activate to sort column ascending" style="width: 87.0625px;">Extn.</th><th class="sorting" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-label="Start date: activate to sort column ascending" style="width: 141px;">Start date</th><th class="sorting" tabindex="0" aria-controls="example" rowspan="1" colspan="1" aria-label="Salary: activate to sort column ascending" style="width: 100.975px;">Salary</th></tr>
+        </thead><tbody><tr class="odd"><td valign="top" colspan="6" class="dataTables_empty">Loading...</td></tr></tbody>
+        <tfoot>
+            <tr><th rowspan="1" colspan="1">Name</th><th rowspan="1" colspan="1">Position</th><th rowspan="1" colspan="1">Office</th><th rowspan="1" colspan="1">Extn.</th><th rowspan="1" colspan="1">Start date</th><th rowspan="1" colspan="1">Salary</th></tr>
+        </tfoot>
+    </table><div class="dataTables_info" id="example_info" role="status" aria-live="polite">Showing 0 to 0 of 0 entries</div><div class="dataTables_paginate paging_simple_numbers" id="example_paginate"><a class="paginate_button previous disabled" aria-controls="example" data-dt-idx="previous" tabindex="-1" id="example_previous">Previous</a><span></span><a class="paginate_button next disabled" aria-controls="example" data-dt-idx="next" tabindex="-1" id="example_next">Next</a></div></div>
+
 
 
 <script>
-  //   $(document).ready(function () {
-        // $("#myTable").DataTable();
-  //   });
-
-
-  $('#myTable').DataTable( {
-      ajax: {
-          url: '100.jason',
-          dataSrc: ''
-      },
-      columns: [ ... ]
-  } );
+document.addEventListener('DOMContentLoaded', function () {
+    let table = new DataTable('#example', {
+        ajax: function (d, cb) {
+            fetch('100.txt')
+                .then(response => response.json())
+                .then(data => cb(data));
+        },
+        columns: [
+            { data: 'name' },
+            { data: 'position' },
+            { data: 'office' },
+            { data: 'extn' },
+            { data: 'start_date' },
+            { data: 'salary' }
+        ]
+    } );
+} );
  </script>
 
 </body>
