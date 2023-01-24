@@ -14,5 +14,24 @@
 <h1>page2</h1>
 <p>This is a paragraph.</p>
 
+ <table id="myTable" class="display" style="width: 100%;">
+   </table>
+
+
+<script>
+  //   $(document).ready(function () {
+        // $("#myTable").DataTable();
+  //   });
+
+
+  $('#myTable').DataTable( {
+      ajax: {
+          url: '100.jason',
+          dataSrc: ''
+      },
+      columns: [ ... ]
+  } );
+ </script>
+
 </body>
 </html>
