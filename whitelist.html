@@ -11,53 +11,45 @@
 </head>
 <body>
 
-  <!-- HTML table with employee data -->
-  <table id="tableID" class="display" style="width:100%">
-      <thead>
-
-          <!-- Column headers with employee data -->
-          <tr>
-              <th>EmployeeID</th>
-              <th>Name</th>
-              <th>Designation</th>
-              <th>Salary</th>
-              <th>Address</th>
-              <th>City</th>
-          </tr>
-      </thead>
-  </table>
+  <table id="example" class="display" style="width:100%">
+          <thead>
+              <tr>
+                  <th>Name</th>
+                  <th>Position</th>
+                  <th>Office</th>
+                  <th>Extn.</th>
+                  <th>Start date</th>
+                  <th>Salary</th>
+              </tr>
+          </thead>
+          <tfoot>
+              <tr>
+                  <th>Name</th>
+                  <th>Position</th>
+                  <th>Office</th>
+                  <th>Extn.</th>
+                  <th>Start date</th>
+                  <th>Salary</th>
+              </tr>
+          </tfoot>
+      </table>
 
 
 <script>
 <script>
-
-      /* Initialization of datatable */
-      $(document).ready(function () {
-
-          /* Datatable access by using table ID */
-          $('#tableID').DataTable({
-              "info": false,
-
-              /* Set pagination as false or
-              true as per need */
-              "paging": false,
-
-              /* Name of the file source
-              for data retrieval */
-              "ajax": 'nestedData.txt',
-              "columns": [
-
-                  /* Name of the keys from
-                  data file source */
-                  { "data": "employee_id" },
-                  { "data": "name" },
-                  { "data": "designation" },
-                  { "data": "salary" },
-                  { "data": "address" },
-                  { "data": "city" }
-              ]
-          });
-      });
+$(document).ready(function () {
+    $('#example').DataTable({
+        ajax: 'objects.txt',
+        columns: [
+            { data: 'name' },
+            { data: 'position' },
+            { data: 'office' },
+            { data: 'extn' },
+            { data: 'start_date' },
+            { data: 'salary' },
+        ],
+    });
+});
 </script>
 
 </body>
