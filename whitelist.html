@@ -5,6 +5,10 @@
 <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
 <script src="100.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsenui.css">
+ <link rel="stylesheet" href="https://unpkg.com/onsenui/css/onsen-css-components.min.css">
+ <script src="https://unpkg.com/onsenui/js/onsenui.min.js"></script>
+
 <head>
 <title>Page Title</title>
 
@@ -12,9 +16,17 @@
 </head>
 <body>
 
+
+
+
+
+<ons-page id="index">
+<ons-card>
+
   <table id="product-inventory-level" class="display" style="width:100%">
           <thead>
               <tr>
+                  <th>Rank</th>
                   <th>Name</th>
                   <th>Cmines Level</th>
                   <th>Type</th>
@@ -22,17 +34,21 @@
           </thead>
       </table>
 
-<script>
 
-$('#product-inventory-level').DataTable( {
-    "data": data,
-    "columns": [
-      { "data": "name"},
-      { "data": "cmine level"},
-      { "data": "type"},
-    ],
-  })
-</script>
+  <script>
+
+  $('#product-inventory-level').DataTable( {
+      "data": data,
+      "columns": [
+        { "data": "rank"},
+        { "data": "name"},
+        { "data": "cmine level"},
+        { "data": "type"},
+      ],
+    })
+  </script>
+</ons-card>
+</ons-page>
 
 </body>
 </html>
