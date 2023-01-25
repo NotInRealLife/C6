@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css">
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+<script src="100.js"></script>
 
 <head>
 <title>Page Title</title>
@@ -11,45 +12,26 @@
 </head>
 <body>
 
-  <table id="example" class="display" style="width:100%">
+  <table id="product-inventory-level" class="display" style="width:100%">
           <thead>
               <tr>
                   <th>Name</th>
-                  <th>Position</th>
-                  <th>Office</th>
-                  <th>Extn.</th>
-                  <th>Start date</th>
-                  <th>Salary</th>
+                  <th>Cmines Level</th>
+                  <th>Type</th>
               </tr>
           </thead>
-          <tfoot>
-              <tr>
-                  <th>Name</th>
-                  <th>Position</th>
-                  <th>Office</th>
-                  <th>Extn.</th>
-                  <th>Start date</th>
-                  <th>Salary</th>
-              </tr>
-          </tfoot>
       </table>
 
+<script>
 
-<script>
-<script>
-$(document).ready(function () {
-    $('#example').DataTable({
-        ajax: 'https://datatables.net/examples/ajax/data/objects.txt',
-        columns: [
-            { data: 'name' },
-            { data: 'position' },
-            { data: 'office' },
-            { data: 'extn' },
-            { data: 'start_date' },
-            { data: 'salary' },
-        ],
-    });
-});
+$('#product-inventory-level').DataTable( {
+    "data": data,
+    "columns": [
+      { "data": "name"},
+      { "data": "cmine level"},
+      { "data": "type"},
+    ],
+  })
 </script>
 
 </body>
