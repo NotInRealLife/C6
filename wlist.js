@@ -1,7 +1,7 @@
 var data=[
     {
         "rank": 1,
-        "name": "azral",
+        "name": "αzяєαℓ",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -15,21 +15,21 @@ var data=[
     },
     {
         "rank": 3,
-        "name": "20PIPS",
+        "name": "20 PIPS",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 4,
-        "name": "Persian Bobobo",
+        "name": "Persian-BOBOBO",
         "cmine level": "all",
         "type": "NOOB",
 
     },
     {
         "rank": 5,
-        "name": "Imanow",
+        "name": "imanow",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -43,7 +43,7 @@ var data=[
     },
     {
         "rank": 7,
-        "name": "garena",
+        "name": "GARENA",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -64,7 +64,7 @@ var data=[
     },
     {
         "rank": 10,
-        "name": "Slavko",
+        "name": "S1avko",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -78,49 +78,49 @@ var data=[
     },
     {
         "rank": 12,
-        "name": "hanx",
+        "name": "HANx",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 13,
-        "name": "Capt Barbossa",
+        "name": "Capt. Barbossa",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 14,
-        "name": "northking",
+        "name": "NorthKing",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 15,
-        "name": "mahdi_j",
+        "name": "mahadi_j",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 16,
-        "name": "lockdown",
+        "name": "Lockdown",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 17,
-        "name": "joanytas",
+        "name": "Joanytas",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 18,
-        "name": "talisman",
+        "name": "TALISMAN",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -134,105 +134,105 @@ var data=[
     },
     {
         "rank": 20,
-        "name": "zshark",
+        "name": "Z$hark",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 21,
-        "name": "alishah",
+        "name": "Agus Ragnar",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 22,
-        "name": "tochihii",
+        "name": "Alishah",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 23,
-        "name": "internum",
+        "name": "TOCHiHii",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 24,
-        "name": "hanx",
+        "name": "internum",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 25,
-        "name": "rat3m",
+        "name": "Rat3m",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 26,
-        "name": "wormulan1",
+        "name": "Wormulon",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 27,
-        "name": "zenitsu",
+        "name": "ZeniTsu",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 28,
-        "name": "Omides66",
+        "name": "omides66",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 29,
-        "name": "eblmzz",
+        "name": "eblmZz",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 30,
-        "name": "uncle meekly",
+        "name": "Uncle Meekly",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 31,
-        "name": "katy",
+        "name": "Katy'",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 32,
-        "name": "tez",
+        "name": "T3Z",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 33,
-        "name": "farhad Fj",
+        "name": "Farhad_fj",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 34,
-        "name": "taher",
+        "name": "Taher",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -246,42 +246,42 @@ var data=[
     },
     {
         "rank": 36,
-        "name": "smesh",
+        "name": "Smesh",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 37,
-        "name": "ray reddington",
+        "name": "Ray Reddington",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 38,
-        "name": "dia77",
+        "name": "Dia77",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 39,
-        "name": "volcan",
+        "name": "*Volcan *",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 40,
-        "name": "prestige",
+        "name": "Prestige",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 41,
-        "name": "saeid legend",
+        "name": "Saeid_LeGenD",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -309,49 +309,49 @@ var data=[
     },
     {
         "rank": 45,
-        "name": "saeeD",
+        "name": "Saee:D",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 46,
-        "name": "holly glory",
+        "name": "HollyGlory",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 47,
-        "name": "beltaloda",
+        "name": "Beltaloda",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 48,
-        "name": "persian yoyoyo",
+        "name": "Persian-YOYOYO",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 49,
-        "name": "creative",
+        "name": "★Creative★",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 50,
-        "name": "king ahmad70",
+        "name": "King Ahmad70",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 51,
-        "name": "legionx",
+        "name": "LEGIONX",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -372,98 +372,98 @@ var data=[
     },
     {
         "rank": 54,
-        "name": "frost",
+        "name": "FROST.",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 55,
-        "name": "eaggle",
+        "name": "Eaggle",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 56,
-        "name": "acetoavokado",
+        "name": "Acetoavokado",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 57,
-        "name": "Mr hossein",
+        "name": "Mr-Hossein",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 58,
-        "name": "ryker",
+        "name": "R Y K E R",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 59,
-        "name": "bulut",
+        "name": "BULUT",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 60,
-        "name": "xsynx",
+        "name": "Xsynx",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 61,
-        "name": "zheyan",
+        "name": "ZheYan",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 62,
-        "name": "donpimpin",
+        "name": "DonPimpón",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 63,
-        "name": "yurra",
+        "name": "Yurra",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 64,
-        "name": "amir shah",
+        "name": "Amir.Shah",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 65,
-        "name": "nikan dracula",
+        "name": "Nikan Dracula",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 66,
-        "name": "hash76",
+        "name": "Hash76",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 67,
-        "name": "soulbeast",
+        "name": "Soulbeast",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -477,7 +477,7 @@ var data=[
     },
     {
         "rank": 69,
-        "name": "fikamaki",
+        "name": "Fikamaki",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -491,14 +491,14 @@ var data=[
     },
     {
         "rank": 71,
-        "name": "artai",
+        "name": "Artai",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 72,
-        "name": "slckevin",
+        "name": "Slckevin",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -533,77 +533,77 @@ var data=[
     },
     {
         "rank": 77,
-        "name": "sparta300k",
+        "name": "SPARTA 300X",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 78,
-        "name": "perm59",
+        "name": "Perm59",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 79,
-        "name": "amstelloni",
+        "name": "Amstelloni",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 80,
-        "name": "zorito",
+        "name": "Zorito",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 81,
-        "name": "youtopia",
+        "name": "Youtopia",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 82,
-        "name": "zartan tza tee",
+        "name": "ZARTAN TZA TEE",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 83,
-        "name": "shibaking",
+        "name": "ShibaKing",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 84,
-        "name": "black",
+        "name": "B!@cK",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 85,
-        "name": "darklord88",
+        "name": "Darklord88",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 86,
-        "name": "arya888",
+        "name": "Arya 888",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 87,
-        "name": "hasan gh",
+        "name": "Hasan_gh",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -617,28 +617,28 @@ var data=[
     },
     {
         "rank": 89,
-        "name": "cliché",
+        "name": "... San",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 90,
-        "name": "warlord",
+        "name": "cl1che",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 91,
-        "name": "warlord",
+        "name": "@warlord@",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 92,
-        "name": "kyojuro rengoku",
+        "name": "Kyojuro Rengoku",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -659,7 +659,7 @@ var data=[
     },
     {
         "rank": 95,
-        "name": "Bolik ua",
+        "name": "Bolik_ua",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -680,14 +680,14 @@ var data=[
     },
     {
         "rank": 98,
-        "name": "Alireza",
+        "name": "Alireza_-",
         "cmine level": "all",
         "type": "Top 100",
 
     },
     {
         "rank": 99,
-        "name": "Digital $$",
+        "name": "Digital $<>_<>$",
         "cmine level": "all",
         "type": "Top 100",
 
@@ -706,14 +706,14 @@ var data=[
 
     {
     "rank": 101,
-    "name": "HillshireCo",
+    "name": "HillShireCo.",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 102,
-    "name": "riptide",
+    "name": "Riptide",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -727,14 +727,14 @@ var data=[
 },
 {
     "rank": 104,
-    "name": "Final War",
+    "name": "Final war",
     "cmine level": "1 and 2",
     "type": "NOOB",
 
 },
 {
     "rank": 105,
-    "name": "mojtaba rh",
+    "name": "mojtaba.rh",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -748,7 +748,7 @@ var data=[
 },
 {
     "rank": 107,
-    "name": "Jiakho",
+    "name": "JiaKho",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -769,21 +769,21 @@ var data=[
 },
 {
     "rank": 110,
-    "name": "payam taher",
+    "name": "payam-taher",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 111,
-    "name": "Creed Aventus",
-    "cmine level": "1 and 2",
-    "type": "Top 200",
+    "name": "-",
+    "cmine level": "-",
+    "type": "-",
 
 },
 {
     "rank": 112,
-    "name": "orochimaru",
+    "name": "OR0CHIMARU",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -804,7 +804,7 @@ var data=[
 },
 {
     "rank": 115,
-    "name": "Shahinn",
+    "name": "shahinn",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -818,7 +818,7 @@ var data=[
 },
 {
     "rank": 117,
-    "name": "Faith Sav",
+    "name": "FAITH-SAV",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -839,14 +839,14 @@ var data=[
 },
 {
     "rank": 120,
-    "name": "Mohsen Rzd2",
+    "name": "Mohsen_Rzd2",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 121,
-    "name": "Tron",
+    "name": "_Tr0n_",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -860,7 +860,7 @@ var data=[
 },
 {
     "rank": 123,
-    "name": "WarLock",
+    "name": "❁WarLock",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -881,7 +881,7 @@ var data=[
 },
 {
     "rank": 126,
-    "name": "Wormulan",
+    "name": "Wormulon1",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -902,14 +902,14 @@ var data=[
 },
 {
     "rank": 129,
-    "name": "giga330",
+    "name": "Giga330",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 130,
-    "name": "Vanheda",
+    "name": "VanHeda",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -923,70 +923,70 @@ var data=[
 },
 {
     "rank": 132,
-    "name": "Tazadar",
+    "name": "~TAZADAR~",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 133,
-    "name": "Invernalla51",
+    "name": "Invernalia.51",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 134,
-    "name": "Strannik LAV",
+    "name": "Strannik-LAV",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 135,
-    "name": "Piippis Empire",
-    "cmine level": "1 and 2",
-    "type": "Top 200",
+    "name": "-",
+    "cmine level": "-",
+    "type": "-",
 
 },
 {
     "rank": 136,
-    "name": "I am witcher",
+    "name": "I am Witcher",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 137,
-    "name": "val6 sensor36",
+    "name": "VAL6 sensor36",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 138,
-    "name": "FightClub",
+    "name": "FIGHTCLUB™️",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 139,
-    "name": "Tazadar",
+    "name": "~Tazadar~",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 140,
-    "name": "Reza Sakha",
+    "name": "Reza.Sakha",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 141,
-    "name": "Amidomaro",
+    "name": "Am1domaro",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1000,9 +1000,9 @@ var data=[
 },
 {
     "rank": 143,
-    "name": "lokyquiet",
-    "cmine level": "1 and 2",
-    "type": "Top 200",
+    "name": "-",
+    "cmine level": "-",
+    "type": "-",
 
 },
 {
@@ -1014,7 +1014,7 @@ var data=[
 },
 {
     "rank": 145,
-    "name": "tayfun1071",
+    "name": "Tayfun1071",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1028,14 +1028,14 @@ var data=[
 },
 {
     "rank": 147,
-    "name": "saber fg",
+    "name": "Saber_fg",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 148,
-    "name": "try to stop me",
+    "name": "try_to_stop_me",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1056,7 +1056,7 @@ var data=[
 },
 {
     "rank": 151,
-    "name": "PirateRick",
+    "name": "-",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1070,14 +1070,14 @@ var data=[
 },
 {
     "rank": 153,
-    "name": "Artmis…",
+    "name": "artmis..",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 154,
-    "name": "Aonr",
+    "name": "dolg (Дonr)",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1091,30 +1091,30 @@ var data=[
 },
 {
     "rank": 156,
-    "name": "Akiles",
+    "name": ",AKILES,",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 157,
-    "name": "SinumpangPogi",
+    "name": "SinumpangPogi™️",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 158,
-    "name": "Katy",
-    "cmine level": "1 and 2",
-    "type": "Top 200",
+    "name": "",
+    "cmine level": "-",
+    "type": "-",
 
 },
 {
     "rank": 159,
-    "name": "Ninja",
-    "cmine level": "1 and 2",
-    "type": "Top 200",
+    "name": "-",
+    "cmine level": "-",
+    "type": "-",
 
 },
 {
@@ -1126,14 +1126,14 @@ var data=[
 },
 {
     "rank": 161,
-    "name": "Point",
+    "name": "POiNT",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 162,
-    "name": "Mien",
+    "name": "Miến",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1147,7 +1147,7 @@ var data=[
 },
 {
     "rank": 164,
-    "name": "Arvah",
+    "name": "ARVAH",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1175,7 +1175,7 @@ var data=[
 },
 {
     "rank": 168,
-    "name": "Zeus",
+    "name": "ZEUS-",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1189,7 +1189,7 @@ var data=[
 },
 {
     "rank": 170,
-    "name": "Ridvan",
+    "name": "RIDVAN",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1210,7 +1210,7 @@ var data=[
 },
 {
     "rank": 173,
-    "name": "Haamed",
+    "name": "haamed",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1245,7 +1245,7 @@ var data=[
 },
 {
     "rank": 178,
-    "name": "Owl3",
+    "name": "OWL3",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1280,7 +1280,7 @@ var data=[
 },
 {
     "rank": 183,
-    "name": "General Shadow",
+    "name": "Boran Nightmare",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1294,7 +1294,7 @@ var data=[
 },
 {
     "rank": 185,
-    "name": "Anvari",
+    "name": "anvari",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1329,28 +1329,28 @@ var data=[
 },
 {
     "rank": 190,
-    "name": "Pitihku",
+    "name": "pitihku",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 191,
-    "name": "Ikume",
+    "name": "ikume",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 192,
-    "name": "AsuraGate",
+    "name": "Asuragate",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 193,
-    "name": "RZV",
+    "name": "Rzv",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1392,14 +1392,14 @@ var data=[
 },
 {
     "rank": 199,
-    "name": "1.Principality",
+    "name": "1. Principality",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
 },
 {
     "rank": 200,
-    "name": "Mehmetdanisman",
+    "name": "mehmetdanisman",
     "cmine level": "1 and 2",
     "type": "Top 200",
 
@@ -1429,7 +1429,7 @@ var data=[
 },
 {
     "rank": "-",
-    "name": "Ice Wizard",
+    "name": "ice Wizard",
     "cmine level": "all",
     "type": "whitelist",
 
@@ -1471,25 +1471,19 @@ var data=[
 },
 {
     "rank": "-",
-    "name": "PIIPPIS",
+    "name": "PIIPPIS EMPIRE",
     "cmine level": "all",
     "type": "whitelist",
 
 },
 {
     "rank": "-",
-    "name": "Katy",
+    "name": ".Katy.",
     "cmine level": "all",
     "type": "whitelist",
 
 },
-{
-    "rank": "-",
-    "name": "Castiell",
-    "cmine level": "all",
-    "type": "whitelist",
 
-},
 {
     "rank": "-",
     "name": "lokyquiet",
@@ -1497,34 +1491,8 @@ var data=[
     "type": "whitelist",
 
 },
-{
-    "rank": "-",
-    "name": "Perm59",
-    "cmine level": "all",
-    "type": "whitelist",
 
-},
-{
-    "rank": "-",
-    "name": "Smesh",
-    "cmine level": "all",
-    "type": "whitelist",
 
-},
-{
-    "rank": "-",
-    "name": "Slavko",
-    "cmine level": "all",
-    "type": "whitelist",
-
-},
-{
-    "rank": "-",
-    "name": "hollyglory",
-    "cmine level": "all",
-    "type": "whitelist",
-
-},
 {
     "rank": "-",
     "name": "General Shadow",
