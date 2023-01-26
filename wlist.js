@@ -1528,7 +1528,13 @@ var data=[
     "type": "whitelist",
 
 },
+{
+    "rank": "-",
+    "name": "Vito Corleone",
+    "cmine level": "1 and 2",
+    "type": "whitelist",
 
+},
 
 
 ];
